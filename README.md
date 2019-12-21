@@ -1,4 +1,4 @@
-# ECE 558 Project 4
+# NCSU ECE 558 Project 4
 
 This is the final project assigned in the ECE 558 course at North Carolina State University.
 
