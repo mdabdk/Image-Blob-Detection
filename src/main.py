@@ -32,7 +32,7 @@ k = np.sqrt(2)
 # read the input image. Please enter different image file names here to
 # test different images
 
-filename = 'images/butterfly.jpg'
+filename = '../images/butterfly.jpg'
 
 img = cv.imread(filename)
 

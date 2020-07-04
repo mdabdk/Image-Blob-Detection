@@ -1,3 +1,3 @@
 # Image Blob Detection
 
-This project demonstrates how to detect blobs in images using the [Laplacian of Gaussian](http://fourier.eng.hmc.edu/e161/lectures/gradient/node8.html) kernel.  This forms part of the [SIFT algorithm](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf). By default, blobs are detected in the `sunflowers.jpg` file, but the `filename` variable in `main.py` can be adjusted to detect blobs in other images. More details can be found in `report.pdf`.
+This project demonstrates how to detect blobs in images using the [Laplacian of Gaussian](http://fourier.eng.hmc.edu/e161/lectures/gradient/node8.html) kernel.  This forms part of the [SIFT algorithm](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf). By default, blobs are detected in the `images/sunflowers.jpg` image using `src/main.py`, but the `filename` variable in `src/main.py` can be adjusted to detect blobs in other images. More details can be found in `report.pdf`.
