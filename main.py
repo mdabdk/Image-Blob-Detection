@@ -32,7 +32,9 @@ k = np.sqrt(2)
 # read the input image. Please enter different image file names here to
 # test different images
 
-img = cv.imread('butterfly.jpg')
+filename = 'butterfly.jpg'
+
+img = cv.imread(filename)
 
 # display the detected blobs
 
