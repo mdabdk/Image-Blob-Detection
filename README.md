@@ -1,7 +1,3 @@
-# NCSU ECE 558 Project 4
+# Image Blob Detection
 
-This is the final project assigned in the ECE 558 course at North Carolina State University.
-
-This project involves blob detection using part of the SIFT algorithm, as detailed [here](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf).
-
-The **main.py** file is the top-level file that should be run first.
+This project demonstrates how to detect blobs in images using the [Laplacian of Gaussian](http://fourier.eng.hmc.edu/e161/lectures/gradient/node8.html) kernel.  This forms part of the [SIFT algorithm](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf). The `main.py` file should be run first.
